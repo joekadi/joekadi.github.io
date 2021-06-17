@@ -1,12 +1,12 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 defaults:
   -
@@ -38,7 +38,7 @@ social_media:
   linkedin: joe-kadi
   # mastodon: your_username
   medium: joekadi
-  stackoverflow: joekadi
+  stackoverflow: 9416214
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
