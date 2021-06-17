@@ -1,12 +1,22 @@
-layout: sidebar
+layout: stacked
 style: light
+theme: jekyll-theme-minimal
+
 
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
 
 defaults:
   -
