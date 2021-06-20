@@ -80,16 +80,20 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  
+
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ffffff;     /* #dedddd; */
   color:#000000;
+  
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #0b67d6;
   color: white;
+
 }
