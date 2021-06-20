@@ -1,6 +1,6 @@
 ---
 title: "Understanding The Ubiquitous Nature Of Uncertainty Through The Heisenberg Uncertainty Principle"
-published: True
+published: False
 ---
 
 The Heisenberg Uncertainty Principle is an idea from quantum physics that states you can <b>never</b> simultaneously know the exact position and exact momentum of an object. It proclaims that the more certain we become of an object’s position, the less certain we become of its momentum and vice versa.
