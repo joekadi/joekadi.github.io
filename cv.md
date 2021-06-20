@@ -2,5 +2,4 @@
 layout: default
 ---
 
-![Joe's CV](/assets/pdfs/cv.pdf)
-
+[Joe's CV]({{ site.url }}/assets/pdfs/cv.pdf)
