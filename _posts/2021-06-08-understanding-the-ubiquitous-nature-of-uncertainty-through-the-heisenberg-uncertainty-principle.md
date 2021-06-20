@@ -34,6 +34,8 @@ A wave packet can be obtained by combining waves with different wavelengths, giv
 
 When we combine two waves we find that there are places where peaks line up: making a larger wave and places where the peaks of one wave fill in the valleys of the other: creating a more flattened wave. The more waves we add, the more prominent the peaks and flat regions become. The end result has narrow regions of waves, separated by wide regions of nothing. If we add enough waves we can create a wave packet which is a form of wave function enclosed to a region of space. This is defined as a <b>quantum object</b> since it has both a wave and particle nature since due to it having a wave length and a position. This is the physical structure of all the atomic and sub-atomic objects in the universe.
 
+![producing a wave packet](/assets/article_images/understanding-the-ubiquitous-nature-of-uncertainty-through-the-heisenberg-uncertainty-principle/producing wave packet.png){: class="blog-img"}
+
 <b>Here’s the caveat:</b> when constructing this quantum object, we had to lose certainty about both the position and momentum of the object. The position isn’t restricted to a single point: there is a good probability of finding it within some range of the centre of the wave packet. And since the wave packet was constructed by combining different waves, there is some probability of the objects momentum corresponding to any one of the constituent waves.
 
 The quantum objects position and momentum are now uncertain, and the uncertainties are connected.

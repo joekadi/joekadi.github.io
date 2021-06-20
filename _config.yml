@@ -31,7 +31,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 3
   exclude:
     archived: false
     forks: true
@@ -48,12 +48,12 @@ social_media:
   linkedin: joe-kadi
   # mastodon: your_username
   medium: joekadi
-  stackoverflow: 9416214
+  #stackoverflow: 9416214
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://joekadi.github.io/cv.md
   # youtube: your_username
 
 #topics:
